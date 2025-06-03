@@ -5,27 +5,27 @@ Este repositório contém implementações de várias estruturas de dados fundam
 ## 📚 Conteúdo
 
 ### Listas
-- [x] Lista Encadeada Simples
-- [x] Lista Duplamente Encadeada
-- [x] Lista Circular
+- [ ] Lista Encadeada Simples
+- [ ] Lista Duplamente Encadeada
+- [ ] Lista Circular
 
 ### Pilhas e Filas
-- [x] Pilha Estática
-- [x] Pilha Dinâmica
-- [x] Fila Estática
-- [x] Fila Dinâmica
+- [ ] Pilha Estática
+- [ ] Pilha Dinâmica
+- [ ] Fila Estática
+- [ ] Fila Dinâmica
 
 ### Árvores
-- [x] Árvore Binária
-- [x] Árvore de Busca Binária (BST)
-- [x] Árvore AVL
+- [ ] Árvore Binária
+- [ ] Árvore de Busca Binária (BST)
+- [ ] Árvore AVL
 
 ### Tabelas Hash
-- [x] Tabela Hash Simples (colisão linear ou encadeada)
+- [ ] Tabela Hash Simples (colisão linear ou encadeada)
 
 ### Grafos
-- [x] Matriz de Adjacência
-- [x] Lista de Adjacência
+- [ ] Matriz de Adjacência
+- [ ] Lista de Adjacência
 
 ## 🎯 Objetivo
 
